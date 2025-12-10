@@ -4,6 +4,9 @@ import TrustBar from "../components/TrustBar.jsx";
 import Testimonials from "../components/Testimonials.jsx";
 import FAQ from "../components/FAQ.jsx";
 import FeatureSection from "../components/FeatureSection.jsx";
+import ServiceAreaMap from "../components/ServiceAreaMap.jsx";
+import ProcessFlow from "../components/ProcessFlow.jsx";
+import SafetyGuarantee from "../components/SafetyGuarantee.jsx";
 ---
 
 <Layout title="Summit Roofing - Slate, Tile & Flat Roof Specialists">
@@ -117,7 +120,59 @@ import FeatureSection from "../components/FeatureSection.jsx";
 			author="Mr. & Mrs. Davies, Oxford"
 			align="right"
 		/>
+
+		<!-- Trust Magnet "We Care" Section -->
+		<div class="py-24 bg-stone-50">
+			<div class="mx-auto max-w-7xl px-6 lg:px-8">
+				<div class="mx-auto max-w-2xl text-center">
+					<h2 class="text-base font-semibold leading-7 text-accent">
+						Why Choose Summit
+					</h2>
+					<p
+						class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+					>
+						A Leaking Roof Damages Your Entire Home
+					</p>
+					<p class="mt-6 text-lg leading-8 text-gray-600">
+						We understand the panic of a storm-damaged roof. Water
+						ingress can ruin ceilings and electrics in minutes.
+						That’s why we offer rapid response, use drone surveys
+						for safe inspection, and don’t leave until your home is
+						100% watertight.
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<ProcessFlow client:visible />
+
+		<!-- Service Area Map Section -->
+		<div class="py-24 bg-white">
+			<div class="mx-auto max-w-7xl px-6 lg:px-8">
+				<div class="mx-auto max-w-2xl text-center mb-16">
+					<h2 class="text-base font-semibold leading-7 text-accent">
+						Local Coverage
+					</h2>
+					<p
+						class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+					>
+						Serving Leeds & Yorkshire
+					</p>
+					<p class="mt-4 text-lg text-gray-500">
+						Reliable roofing services across Headingley, Horsforth,
+						and the wider Leeds area.
+					</p>
+				</div>
+				<ServiceAreaMap
+					client:only="react"
+					center={[53.8008, -1.5491]}
+					city="Leeds"
+					radiusMiles={20}
+				/>
+			</div>
+		</div>
 		<Testimonials client:visible />
+		<SafetyGuarantee client:visible />
 		<FAQ client:visible />
 	</main>
 </Layout>

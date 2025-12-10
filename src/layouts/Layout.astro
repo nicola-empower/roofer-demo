@@ -3,13 +3,35 @@ import "@fontsource/outfit/400.css";
 import "@fontsource/outfit/500.css";
 import "@fontsource/outfit/700.css";
 import "../styles/global.css";
+import Header from "../components/Header.jsx";
+import LocalSeoFooter from "../components/LocalSeoFooter.astro";
+import StickyCTA from "../components/StickyCTA.jsx";
 
 interface Props {
     title: string;
     description?: string;
+    service?: string;
+    city?: string;
+    areas?: string[];
+    postcodes?: string[];
+    phone?: string;
 }
 
-const { title, description = "Premium Trade Services" } = Astro.props;
+const {
+    title,
+    description = "Expert Local Roofers",
+    service = "Roofing Services",
+    city = "Leeds",
+    areas = [
+        "Headingley",
+        "Horsforth",
+        "Chapel Allerton",
+        "Roundhay",
+        "Moortown",
+    ],
+    postcodes = ["LS6", "LS18", "LS7", "LS8", "LS17"],
+    phone = "0113 900 1234",
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -22,10 +44,25 @@ const { title, description = "Premium Trade Services" } = Astro.props;
         <meta name="generator" content={Astro.generator} />
         <title>{title}</title>
     </head>
-    <body class="min-h-screen flex flex-col overflow-x-hidden">
+    <body
+        class="min-h-screen flex flex-col overflow-x-hidden selection:bg-accent selection:text-white"
+    >
+        <!-- Sticky Header (Desktop) -->
+        <Header client:load title={title.split(" - ")[0]} phone={phone} />
+
+        <!-- Sticky CTA (Mobile) -->
+        <StickyCTA client:load number={phone} label="Call For Quote" />
+
         <slot />
 
-        <footer class="bg-gray-900 text-white py-12 mt-auto">
+        <LocalSeoFooter
+            service={service}
+            city={city}
+            areas={areas}
+            postcodes={postcodes}
+        />
+
+        <footer class="bg-gray-900 text-white py-12">
             <div
                 class="max-w-7xl mx-auto px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6"
             >
