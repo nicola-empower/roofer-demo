@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Outfit', sans-serif;
+  --color-primary: #1f2937;
+  /* Gray 900 */
+  --color-secondary: #4b5563;
+  /* Gray 600 */
+  --color-accent: #b91c1c;
+  /* Red 700 - Terracotta/Brick */
+  --color-slate: #64748b;
+  /* Slate 500 - Roofing Slate */
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-primary antialiased selection:bg-accent/20 selection:text-accent;
+  }
+}
