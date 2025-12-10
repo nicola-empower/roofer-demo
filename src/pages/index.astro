@@ -3,6 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import TrustBar from "../components/TrustBar.jsx";
 import Testimonials from "../components/Testimonials.jsx";
 import FAQ from "../components/FAQ.jsx";
+import FeatureSection from "../components/FeatureSection.jsx";
 ---
 
 <Layout title="Summit Roofing - Slate, Tile & Flat Roof Specialists">
@@ -92,22 +93,30 @@ import FAQ from "../components/FAQ.jsx";
 
 		<div class="relative z-20 bg-white"><TrustBar client:visible /></div>
 
-		<!-- Services Preview Section -->
-		<div class="py-24 sm:py-32 bg-slate-50">
-			<div class="mx-auto max-w-7xl px-6 lg:px-8">
-				<div class="mx-auto max-w-2xl text-center">
-					<h2 class="text-base font-semibold leading-7 text-slate">
-						Master Roofers
-					</h2>
-					<p
-						class="mt-2 text-3xl font-bold tracking-tight text-primary sm:text-4xl"
-					>
-						Weatherproofing Excellence
-					</p>
-				</div>
-				<!-- Add more content here later -->
-			</div>
-		</div>
+		<FeatureSection
+			client:visible
+			title="Protection Meets Design"
+			subtitle="Complete Weatherproofing"
+			description="Your roof is your home's first line of defence. We combine traditional roofing craftsmanship with modern high-performance materials to deliver roofs that look stunning and last for decades."
+			features={[
+				{
+					title: "Heritage Slate",
+					desc: "Specialist restoration for period properties.",
+				},
+				{
+					title: "Flat Roofing",
+					desc: "EPDM rubber and GRP fibreglass systems.",
+				},
+				{
+					title: "Storm Damage",
+					desc: "Rapid emergency response and insurance work.",
+				},
+			]}
+			imageSrc="/hero.png"
+			quote="We had three other quotes, but Summit were the only ones who really understood the heritage requirements."
+			author="Mr. & Mrs. Davies, Oxford"
+			align="right"
+		/>
 		<Testimonials client:visible />
 		<FAQ client:visible />
 	</main>
