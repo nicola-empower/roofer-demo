@@ -1,3 +1,6 @@
+import React from 'react';
+import { ShieldCheck, Award, Clock } from 'lucide-react';
+
 const defaultItems = [
     { title: "10-Year Guarantee", subtitle: "Insurance Backed", icon: ShieldCheck, colorClass: "text-blue-600" },
     { title: "NFRC Certified", subtitle: "Fully Vetted", icon: Award, colorClass: "text-red-600" },
