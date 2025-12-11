@@ -1,0 +1,483 @@
+This is a massive value-add for your demo sites. When a tradesperson clicks "Read More" on a service card, they usually see Lorem Ipsum or one vague sentence.
+
+By having **three fully fleshed-out service descriptions** for *each* trade, you prove that you understand their industry. This makes the £3k–£5k price tag feel like an investment in a "business in a box."
+
+Here are the **Service Details** for all 11 trades, written in the premium personas we established.
+
+---
+
+### 1. Heating (Therma Heat)
+*Persona: The Energy Efficiency Engineer*
+
+**Service 1: High-Efficiency Boiler Installation**
+> We don't just swap boxes; we upgrade your home's thermal efficiency. As accredited installers for **Worcester Bosch** and **Viessmann**, we design systems that lower your bills and heat your home faster.
+> * **Dynamic Balancing:** We balance your radiators to ensure every room heats evenly.
+> * **Chemical Flush:** Existing systems are cleaned to remove sludge before the new unit is fitted.
+> * **12-Year Warranties:** Extended manufacturer guarantees included as standard.
+
+**Service 2: Smart Climate Control (Nest/Hive)**
+> Take total control of your energy usage. We integrate intelligent thermostats that learn your schedule and heat your home only when needed.
+> * **Geolocation:** Your heating turns off when you leave and warms up as you return.
+> * **Multi-Zone Control:** Heat the bedrooms and living areas independently.
+> * **Remote Access:** Control your hot water from your phone, anywhere in the world.
+
+**Service 3: System Power Flushing**
+> Is your system slow to heat up? Are radiators cold at the bottom? Our commercial-grade MagnaCleanse flush restores your system to factory-level efficiency.
+> * **Efficiency Boost:** Can improve radiator output by up to 15%.
+> * **Pump Protection:** Removes iron oxide sludge that damages expensive boiler components.
+> * **Fuel Savings:** A clean system uses less gas to reach temperature.
+
+---
+
+### 2. Builder (Apex Construction)
+*Persona: The Visionary Architect*
+
+**Service 1: Luxury New Builds**
+> From the first foundation trench to the final coat of paint, we offer a turnkey construction service. We work closely with your architect to ensure structural integrity meets design excellence.
+> * **Project Management:** A dedicated site manager coordinates all trades and logistics.
+> * **JCT Contracts:** Transparent, industry-standard contracts for your protection.
+> * **Building Control:** We handle all inspections and sign-offs with the local authority.
+
+**Service 2: Architectural Extensions**
+> Create the open-plan living space you’ve always wanted. We specialize in complex structural alterations, steelwork, and glass-heavy designs that flood your home with light.
+> * **Seamless Integration:** Brick matching and roofline blending to make the extension look original.
+> * **Structural Steel:** Expert installation of RSJs and box frames for open-plan layouts.
+> * **Glazing:** Installation of bi-fold doors, skylights, and lantern roofs.
+
+**Service 3: Commercial Restructuring**
+> optimize your business premises for growth. We deliver office fit-outs and structural changes with strict adherence to CDM regulations and minimal operational downtime.
+> * **Out-of-Hours Works:** We schedule noisy works to avoid disrupting your staff.
+> * **Fire Compliance:** Installation of fire doors, partitions, and safety systems.
+> * **Acoustic Solutions:** Soundproofing for meeting rooms and private offices.
+
+---
+
+### 3. Commercial Cleaner (Pristine Commercial)
+*Persona: The Compliance Partner*
+
+**Service 1: Corporate Contract Cleaning**
+> A clean office is a productive office. Our uniformed teams provide daily or weekly maintenance cleaning that ensures your brand makes the right impression.
+> * **Digital Attendance:** tracked sign-in/out so you know exactly when we were on site.
+> * **Security Vetted:** All staff are DBS checked and trained in site security protocols.
+> * **Consumable Management:** We monitor and restock your washroom supplies automatically.
+
+**Service 2: CQC Medical & Clinical Cleaning**
+> Specialized hygiene services for GP surgeries, dental practices, and clinics. We follow strict infection control protocols to ensure you pass your CQC inspections with flying colors.
+> * **Color-Coded Systems:** Prevention of cross-contamination between zones.
+> * **Audit Trails:** Monthly hygiene reports provided for your compliance folders.
+> * **Virucidal Fogging:** Deep sanitization for high-risk areas.
+
+**Service 3: Deep Cleaning & Carpet Care**
+> Revitalize your workspace. Our industrial extraction machines remove deep-seated dirt, allergens, and coffee stains from office carpets and upholstery.
+> * **Low-Moisture Tech:** Carpets are dry and ready to walk on in under 2 hours.
+> * **Upholstery:** Cleaning for office chairs and reception furniture.
+> * **Hard Floor Care:** Strip and seal services for vinyl and safety flooring.
+
+---
+
+### 4. Electrician (Volt Master)
+*Persona: The Smart Home Integrator*
+
+**Service 1: Smart Home Automation**
+> Transform your living experience. We design and install integrated systems that control your lighting, blinds, and audio from a single interface or voice command.
+> * **Lutron Lighting:** Mood lighting scenes for every occasion.
+> * **Automated Blinds:** Natural light management that protects your furniture and privacy.
+> * **Data Networking:** Hardwired CAT6 data points for lag-free 4K streaming and home offices.
+
+**Service 2: EICR & Landlord Compliance**
+> Ensure your property is safe and legal. We provide rigorous Electrical Installation Condition Reports (EICR) with digital certificates issued within 24 hours of inspection.
+> * **Thorough Testing:** We inspect every circuit, fuse board, and accessory.
+> * **Rectification:** Clear, fixed-price quotes for any C1 or C2 remedial works.
+> * **Reminders:** Automated alerts when your next inspection is due.
+
+**Service 3: Full Rewiring**
+> Modernize your home’s nervous system. We replace dangerous, old cabling with modern, safety-compliant wiring, upgrading your capacity for modern appliances.
+> * **Chasing & Making Good:** We use dust-extraction wall chasers to minimize mess.
+> * **Consumer Units:** Upgrade to RCBO boards with surge protection (SPD) as standard.
+> * **Future Proofing:** Installing neutral wires at switches for future smart-home compatibility.
+
+---
+
+### 5. Joiner (Oak & Chisel)
+*Persona: The Heritage Artisan*
+
+**Service 1: Bespoke Hand-Painted Kitchens**
+> Why compromise with standard sizes? We craft solid wood, in-frame cabinetry designed to fit your room perfectly, down to the millimeter.
+> * **Dovetail Drawers:** Traditional joinery techniques for strength and longevity.
+> * **Custom Storage:** Larders, spice racks, and islands designed around how you cook.
+> * **Hand Finishing:** Painted on-site or in the workshop in your chosen Farrow & Ball shade.
+
+**Service 2: Heritage Window Restoration**
+> Preserve the character of your period property. We restore rotten timber sash and casement windows, upgrading them with draught-proofing and slimline double glazing.
+> * **Sash Re-cording:** Replacement of cords, weights, and pulleys for smooth operation.
+> * **Rot Repair:** Splicing in new timber using the dedicated resin repair care system.
+> * **Molding Matching:** We cut custom tooling to match your existing architraves perfectly.
+
+**Service 3: Fitted Wardrobes & Libraries**
+> Maximize your storage with floor-to-ceiling joinery. From walk-in dressing rooms to alcove bookcases, we turn awkward spaces into elegant features.
+> * **Internal Configuration:** Shoe racks, long hanging, and soft-close drawers tailored to your wardrobe.
+> * **Integrated Lighting:** LED motion-sensor lighting inside cabinets.
+> * **Material Choice:** Choose from spray-finished MDF, Oak, Walnut, or Ash.
+
+---
+
+### 6. Locksmith (Secure Locksmiths)
+*Persona: The Security Consultant*
+
+**Service 1: Non-Destructive Emergency Entry**
+> Locked out? Our priority is getting you back in without damaging your door. We use advanced picking and bypassing techniques to open 95% of locks without drilling.
+> * **Rapid Dispatch:** Live tracking of your engineer.
+> * **No Damage:** We save your lock whenever possible to reduce costs.
+> * **ID Verification:** For your safety, we verify ownership before granting access.
+
+**Service 2: High-Security Upgrades (Anti-Snap)**
+> Burglars exploit weak locks in seconds. We upgrade your PVC and composite doors with TS007 3-Star Diamond cylinders that cannot be snapped or drilled.
+> * **Ultion & Yale:** We install only the highest-rated British Standard hardware.
+> * **5-Year Guarantee:** Specifically on lock-snapping protection.
+> * **Sash Jammers:** Additional internal security for vulnerable windows.
+
+**Service 3: Master Key Systems**
+> Simplify your access. For landlords and business owners, we design keyed-alike systems where one "Grand Master" key opens all doors, while staff keys are restricted to specific zones.
+> * **Restricted Keys:** Patented keys that cannot be copied at a high street cobbler.
+> * **Zone Control:** Grant access to cleaners or staff only where they need to go.
+> * **Digital Audit:** (Optional) Upgrade to fob systems for time-stamped entry logs.
+
+---
+
+### 7. Landscaper (Eden Landscapes)
+*Persona: The Garden Curator*
+
+**Service 1: 3D Garden Design & Planning**
+> Visualize the transformation before we break ground. Our design team creates full CAD renderings and mood boards, considering light fall, soil type, and architectural style.
+> * **Virtual Walkthroughs:** See your garden at day and night in 3D.
+> * **Planting Plans:** Detailed schematics of every plant species and location.
+> * **Material Selection:** Samples of porcelain, sandstone, and timber provided for approval.
+
+**Service 2: Hardscaping & Porcelain Paving**
+> The foundation of a luxury garden. We install premium patios using laser-leveled sub-bases and high-performance jointing compounds for a weed-free, durable finish.
+> * **Porcelain Specialists:** Non-slip, stain-resistant, and ultra-modern.
+> * **Retaining Walls:** Structural brickwork and sleepers to manage sloping gardens.
+> * **Drainage Solutions:** Aco drains and soakaways to prevent waterlogging.
+
+**Service 3: Outdoor Living Structures**
+> Extend your home into the garden. We build bespoke timber and composite structures that allow you to enjoy your outdoor space year-round.
+> * **Outdoor Kitchens:** Built-in BBQs, pizza ovens, and granite prep counters.
+> * **Pergolas:** Bioclimatic aluminium pergolas with opening roof blades.
+> * **Composite Decking:** Millboard and Trex installers—rot-free and low maintenance.
+
+---
+
+### 8. Decorator (Chroma Decor)
+*Persona: The Dust-Free Perfectionist*
+
+**Service 1: Dust-Free Sanding & Prep**
+> The secret to a perfect finish is the preparation. We use the Festool extraction system to sand your walls and woodwork, capturing 99.9% of dust at the source.
+> * **Healthier Home:** Safe for asthma sufferers and families.
+> * **Smooth Finish:** Removes imperfections for a glass-like surface.
+> * **Clean Workspace:** We leave your home as clean as we found it.
+
+**Service 2: Kitchen & Furniture Spraying**
+> Don't replace; revitalize. We spray your existing kitchen cabinets, wardrobes, and doors with durable, industrial-grade specialist paints for a factory finish.
+> * **Cost Effective:** Save 80% compared to buying a new kitchen.
+> * **Infinite Colors:** We can color-match any Farrow & Ball or RAL shade.
+> * **Durability:** Scratch-resistant, scrubbable finishes designed for high-traffic areas.
+
+**Service 3: Luxury Wallpaper Installation**
+> Hanging expensive paper requires nerve and skill. We specialize in wide-width vinyls, silks, and hand-printed papers, ensuring invisible seams and perfect pattern alignment.
+> * **Surface Prep:** Lining papers applied to ensure a smooth base.
+> * **Complex Patterns:** Expert matching of large repeat designs.
+> * **Mural Installation:** Seamless application of wall-sized digital prints.
+
+---
+
+### 9. Plumber (Elite Plumbing)
+*Persona: The Luxury Bathroom Installer*
+
+**Service 1: Luxury Bathroom Installations**
+> We create sanctuaries. From stripping out the old suite to the final bead of silicone, we manage the entire renovation, including tiling, electrics, and plastering.
+> * **Wet Rooms:** Tanking systems for level-access, hotel-style showers.
+> * **Concealed Plumbing:** Pipework hidden in walls for a minimalist aesthetic.
+> * **Premium Brands:** Expert installation of Grohe, Hansgrohe, and Duravit fixtures.
+
+**Service 2: Underfloor Heating (UFH)**
+> Experience the ultimate comfort. We design and install water-based (wet) UFH systems that free up wall space (no radiators) and provide efficient, even heat.
+> * **Zoned Control:** Thermostats in every room.
+> * **Retrofit Systems:** Low-profile overlay systems for existing floors.
+> * **Efficiency:** Runs at lower temperatures than radiators, saving energy.
+
+**Service 3: Emergency Leak Detection**
+> Water damage spreads fast. Our priority response team uses thermal imaging and acoustic listening devices to locate leaks behind walls and under floors without unnecessary damage.
+> * **Non-Invasive:** We find the leak before we cut the pipe.
+> * **Trace & Access:** Detailed reports provided for your insurance claim.
+> * **Rapid Repair:** Vans stocked with universal fittings for a first-time fix.
+
+---
+
+### 10. Tree Surgeon (Royal Oak)
+*Persona: The Canopy Guardian*
+
+**Service 1: Sectional Felling (Rigging)**
+> Safe removal of trees in confined spaces. When a tree cannot be felled in one go, our climbers dismantle it piece by piece, using ropes to lower heavy timber safely to the ground.
+> * **Zero Impact:** Protects your greenhouse, fences, and lawn.
+> * **Heavy Lifting:** Cranes used for extremely large or dangerous trees.
+> * **Green Waste:** All brash chipped and timber removed from site.
+
+**Service 2: Crown Reduction & Thinning**
+> Let the light back in. We scientifically reduce the canopy size to reduce wind loading and shading, while maintaining the tree’s natural shape and health.
+> * **BS3998 Compliant:** All cuts made to British Standards to prevent disease.
+> * **Deadwooding:** Removal of dead or dying branches that pose a safety risk.
+> * **Tree Preservation:** We check for TPOs and handle council applications.
+
+**Service 3: Stump Grinding**
+> Finish the job properly. We use narrow-access stump grinders to mechanically chew the stump down to 30cm below ground level, allowing you to turf or pave over the area.
+> * **Narrow Access:** Our machines fit through a standard garden gate.
+> * **Root Removal:** Chasing out lateral surface roots.
+> * **Reinstatement:** We backfill the hole with mulch/soil, ready for planting.
+
+---
+
+### 11. Roofer (Summit Roofing)
+*Persona: The Structural Protector*
+
+**Service 1: Heritage Slate & Tiling**
+> Restoring character properties requires patience and sourcing the right materials. We specialize in Welsh Slate and clay tile repairs that respect the history of your building.
+> * **Reclaimed Slate:** Sourcing matching slates for invisible repairs.
+> * **Lead Work:** Expert bossing and welding of lead flashings and valleys.
+> * **Breathable Membranes:** Upgrading insulation and ventilation while we work.
+
+**Service 2: EPDM Rubber Flat Roofing**
+> The modern solution for flat roofs. We are certified installers of Firestone EPDM—a single-ply rubber membrane that is seamless, flexible, and lasts for 50+ years.
+> * **No Naked Flames:** Cold-applied installation for safety.
+> * **Tough:** Resistant to UV, ozone, and foot traffic.
+> * **20-Year Warranty:** Manufacturer-backed guarantee for peace of mind.
+
+**Service 3: Drone Roof Surveys**
+> Safe, fast, and transparent. We use 4K drones to inspect your roof, chimneys, and gutters without the cost or risk of scaffolding.
+> * **High-Res Imagery:** You see exactly what we see—no made-up problems.
+> * **Condition Reports:** Detailed PDF reports for insurance or home buyers.
+> * **Preventative:** Spot cracked tiles or blocked valleys before they cause leaks.
+
+---
+ create a **"Generic Contact Page"** template that works for all of them? I can write a script for the "form success" message that reinforces the premium feel (e.g., *"Your request has been priority routed to our dispatch team"*).
+
+
+ This is the secret sauce. To justify the £3k–£5k price tag, the client needs to feel like you built this *just for them*, even if the underlying code structure (React/Astro components) is shared.
+
+You can break the "template" feel by creating **3 distinct Design Systems** using Tailwind. Assign each trade to one of these systems.
+
+Here is a breakdown of how to style them using specific Typography, Color Palettes, and Border Radiuses to match the Copy Personas we just built.
+
+### 1\. The "Heritage & Luxury" System
+
+**Used for:** Joiner (Oak & Chisel), Landscaper (Eden), Roofer (Summit).
+**The Vibe:** Old money, craftsmanship, organic, established.
+
+  * **Typography:** Pair a classy Serif header with a clean Sans body.
+      * *Headers:* `font-serif` (e.g., "Playfair Display" or "Merriweather").
+      * *Body:* `font-sans` (e.g., "Lato" or "Source Sans Pro").
+  * **Tailwind Config (The Look):**
+      * **Rounded Corners:** Soft and approachable. Use `rounded-md` or `rounded-lg`.
+      * **Buttons:** Subtle aesthetics. `border border-current` (ghost buttons) or solid colors with `shadow-sm`.
+      * **Colors:** Earth tones.
+          * *Joiner:* `bg-stone-50` (background), `text-stone-900` (text), `bg-amber-800` (buttons/accents).
+          * *Landscaper:* `bg-white`, `text-slate-800`, `bg-emerald-700` (buttons).
+  * **Key CSS Class to use:** `tracking-wide` (letter spacing) on the headers creates an instant "luxury" feel.
+
+### 2\. The "Technical & Urgent" System
+
+**Used for:** Electrician (Volt Master), Locksmith (Secure), Heating (Therma Heat).
+**The Vibe:** High-tech, fast, precise, safety-critical.
+
+  * **Typography:** Modern, geometric, or mono-spaced.
+      * *Headers:* `font-sans` (e.g., "Inter", "Roboto", or "Oswald" for urgency).
+      * *Sub-headers:* `font-mono` (e.g., "JetBrains Mono" or "Roboto Mono") for small details like "24/7" or phone numbers.
+  * **Tailwind Config (The Look):**
+      * **Rounded Corners:** Sharp and industrial. Use `rounded-none` or very tight `rounded-sm`.
+      * **Buttons:** High contrast, loud. `uppercase`, `font-bold`, `tracking-wider`.
+      * **Colors:** High contrast / Dark Mode.
+          * *Electrician:* **Dark Mode.** `bg-slate-950`, `text-white`, `text-cyan-400` (accents).
+          * *Locksmith:* `bg-gray-900`, `text-gray-100`, `bg-red-600` (urgent buttons).
+          * *Heating:* `bg-white`, `text-slate-900`, `bg-orange-500` (warmth).
+  * **Key CSS Class to use:** `backdrop-blur-md` on navigation bars or quote forms to make it feel like "modern tech."
+
+### 3\. The "Clean & Corporate" System
+
+**Used for:** Cleaner (Pristine), Plumber (Elite), Builder (Apex).
+**The Vibe:** Trustworthy, hygienic, professional, scalable.
+
+  * **Typography:** Very clean, neutral Sans-Serif.
+      * *Headers & Body:* `font-sans` (e.g., "Montserrat" or "Open Sans"). Avoid quirks.
+  * **Tailwind Config (The Look):**
+      * **Rounded Corners:** Friendly but professional. `rounded` or `rounded-md`.
+      * **Layout:** High whitespace (`gap-8`, `p-12`). Don't crowd the elements.
+      * **Shadows:** Use `shadow-lg` or `shadow-xl` on cards to make them "float" (feels premium).
+      * **Colors:** "Medical" or "Corporate" cleanliness.
+          * *Cleaner:* `bg-sky-50` (very light blue), `text-slate-600`, `bg-teal-500` (buttons).
+          * *Plumber:* `bg-white`, `text-slate-800`, `bg-blue-600` (trust).
+  * **Key CSS Class to use:** `divide-y` and `divide-gray-100` to create clean separation between sections without heavy borders.
+
+-----
+
+### Quick "Cheat Sheet" for your `tailwind.config.js`
+
+You can actually set these up as presets. Here is a quick reference on how to style the **Hero Button** for each to make them feel totally different:
+
+**1. The Joiner (Heritage):**
+
+```html
+<button class="bg-amber-800 text-stone-50 font-serif px-8 py-3 rounded-md shadow-sm hover:bg-amber-900 transition-colors">
+  Request Commission
+</button>
+```
+
+**2. The Electrician (Tech/Dark):**
+
+```html
+<button class="bg-cyan-500 text-slate-900 font-bold uppercase tracking-widest px-6 py-3 rounded-none hover:bg-cyan-400 hover:shadow-[0_0_15px_rgba(6,182,212,0.5)] transition-all">
+  Get Quote
+</button>
+```
+
+*(Note: That `hover:shadow` adds a "glowing" neon effect).*
+
+**3. The Cleaner (Corporate):**
+
+```html
+<button class="bg-teal-600 text-white font-sans font-semibold px-8 py-3 rounded-full shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all">
+  Book Deep Clean
+</button>
+```
+
+*(Note: `rounded-full` gives a very friendly, "bubble" feel appropriate for cleaning).*
+
+**Would you like me to suggest specific Google Font pairings for the 11 trades so you can load them into your project?**
+
+Here are specific Google Font pairings tailored to the 11 trades.
+
+By swapping these into your Tailwind config, you will instantly change the "temperature" of each site.
+
+### Group 1: The "Heritage & Luxury" Collection
+
+*Use these for the trades selling craftsmanship, history, or high-end lifestyle.*
+
+**1. Oak & Chisel (Joiner)**
+
+  * **The Vibe:** Traditional, Tactile, Expensive.
+  * **Header:** **Libre Baskerville** (A classic, sturdy serif that looks great on wood textures).
+  * **Body:** **Source Sans Pro** (Clean, legible, modern).
+  * **Tailwind Feel:** Use `tracking-wide` on headers.
+
+**2. Summit Roofing (Roofer)**
+
+  * **The Vibe:** Solid, Permanent, Structural.
+  * **Header:** **Arvo** (A geometric "Slab Serif"—it looks like a brick/slate. Very strong).
+  * **Body:** **Lato** (Friendly but professional).
+  * **Tailwind Feel:** `font-bold` on headers, `text-slate-700` for body text.
+
+**3. Eden Landscapes (Landscaper)**
+
+  * **The Vibe:** Organic, Flowing, Elegant.
+  * **Header:** **Fraunces** (A soft, trendy serif with lots of character. Looks very "magazine").
+  * **Body:** **Nunito Sans** (A balanced sans-serif).
+  * **Tailwind Feel:** Use `italic` for sub-headlines to maximize the "Fraunces" effect.
+
+**4. Chroma Decor (Decorator)**
+
+  * **The Vibe:** Artistic, Fashionable, Boutique.
+  * **Header:** **Playfair Display** (High-contrast serif. Looks like *Vogue*).
+  * **Body:** **Alice** (Or keep it simple with *Open Sans* if Alice is too decorative).
+  * **Tailwind Feel:** Use `text-5xl` for headers—this font needs to be big to look good.
+
+-----
+
+### Group 2: The "Tech & Industrial" Collection
+
+*Use these for the trades selling speed, security, and modern systems.*
+
+**5. Volt Master (Electrician)**
+
+  * **The Vibe:** Futuristic, Digital, Precision.
+  * **Header:** **Rajdhani** (Squared-off, looks like a digital display).
+  * **Body:** **Inter** (The standard for UI design—very clean).
+  * **Tailwind Feel:** `uppercase` headers with `tracking-widest`.
+
+**6. Secure Locksmiths (Locksmith)**
+
+  * **The Vibe:** Strong, Urgent, Military.
+  * **Header:** **Chakra Petch** (Angular, aggressive, looks like a security UI).
+  * **Body:** **Roboto** (Standard, reliable).
+  * **Tailwind Feel:** Use `bg-gray-900` backgrounds with White text.
+
+**7. Therma Heat (Heating)**
+
+  * **The Vibe:** Engineered, Efficient, Warm.
+  * **Header:** **Rubik** (Rounded corners but geometric—looks "friendly tech").
+  * **Body:** **Karla** (Quirky but very readable).
+  * **Tailwind Feel:** Use `rounded-lg` on buttons to match the Rubik font.
+
+-----
+
+### Group 3: The "Modern & Corporate" Collection
+
+*Use these for the trades selling scale, trust, and cleanliness.*
+
+**8. Apex Construction (Builder)**
+
+  * **The Vibe:** Architectural, Structured, Big Scale.
+  * **Header:** **Montserrat** (Wide, geometric, looks like an architectural drawing).
+  * **Body:** **Work Sans** (Clean, optimized for screen).
+  * **Tailwind Feel:** `font-extrabold` for headers to look "heavy" and expensive.
+
+**9. Pristine Commercial (Cleaner)**
+
+  * **The Vibe:** Clean, Friendly, Efficient.
+  * **Header:** **Poppins** (Geometric circles, very friendly and hygienic).
+  * **Body:** **Mulish** (Minimalist).
+  * **Tailwind Feel:** Use `rounded-full` buttons to match the circles in Poppins.
+
+**10. Elite Plumbing (Plumber)**
+
+  * **The Vibe:** Spa, Relaxation, High-End.
+  * **Header:** **Tenor Sans** (Designed for fashion/lifestyle websites. Very open).
+  * **Body:** **Hind** (Humanist sans).
+  * **Tailwind Feel:** plenty of `p-12` whitespace.
+
+**11. Royal Oak (Tree Surgeon)**
+
+  * **The Vibe:** Nature, Outdoors, Trust.
+  * **Header:** **Merriweather Sans** (A sans-serif that feels "leafy" and traditional).
+  * **Body:** **Oxygen** (Simple, light).
+  * **Tailwind Feel:** Use greens like `text-emerald-800`.
+
+-----
+
+### Implementation in Tailwind
+
+To make this easy, just update your `tailwind.config.js` for the specific project you are working on.
+
+**Example for the Joiner (Heritage):**
+
+```javascript
+// tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      fontFamily: {
+        // Assign Libre Baskerville to 'serif' or a custom name like 'header'
+        header: ['"Libre Baskerville"', 'serif'],
+        // Assign Source Sans Pro to 'body'
+        body: ['"Source Sans Pro"', 'sans-serif'],
+      },
+    },
+  },
+}
+```
+
+Then in your HTML/React:
+
+```html
+<h1 class="font-header text-4xl text-stone-900">Bespoke Joinery</h1>
+<p class="font-body text-stone-600">Handcrafted in our local workshop.</p>
+```
+
+**Would you like me to write a quick `terms of service` snippet that covers all these trades, or are you ready to build?**

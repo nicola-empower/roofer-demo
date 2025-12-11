@@ -19,18 +19,12 @@ interface Props {
 
 const {
     title,
-    description = "Expert Local Roofers",
-    service = "Roofing Services",
+    description = "Expert Roofing Services",
+    service = "Roofing",
     city = "Leeds",
-    areas = [
-        "Headingley",
-        "Horsforth",
-        "Chapel Allerton",
-        "Roundhay",
-        "Moortown",
-    ],
-    postcodes = ["LS6", "LS18", "LS7", "LS8", "LS17"],
-    phone = "0113 900 1234",
+    areas = ["Pudsey", "Horsforth", "Morley", "Garforth", "Rothwell"],
+    postcodes = ["LS1", "LS2", "LS6", "LS12", "LS27"],
+    phone = "0113 490 1234",
 } = Astro.props;
 ---
 
@@ -43,9 +37,16 @@ const {
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <meta name="generator" content={Astro.generator} />
         <title>{title}</title>
+        <!-- Arvo (Slab Serif) + Lato (Sans) -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Lato:wght@400;700&display=swap"
+            rel="stylesheet"
+        />
     </head>
     <body
-        class="min-h-screen flex flex-col overflow-x-hidden selection:bg-accent selection:text-white"
+        class="min-h-screen flex flex-col overflow-x-hidden font-body selection:bg-accent selection:text-white"
     >
         <!-- Sticky Header (Desktop) -->
         <Header client:load title={title.split(" - ")[0]} phone={phone} />

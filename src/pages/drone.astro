@@ -1,0 +1,124 @@
+---
+import Layout from "../layouts/Layout.astro";
+import {
+    Camera,
+    ShieldCheck,
+    FileCheck,
+    ArrowRight,
+    XCircle,
+    CheckCircle,
+} from "lucide-react";
+---
+
+<Layout title="Drone Surveys | Summit Roofing">
+    <main class="bg-slate-50">
+        <!-- Hero -->
+        <div class="bg-slate-900 py-24 sm:py-32 relative overflow-hidden">
+            <!-- Radar effect -->
+            <div class="absolute inset-0 overflow-hidden opacity-20">
+                <div
+                    class="absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] border border-orange-500/30 rounded-full animate-ping"
+                >
+                </div>
+            </div>
+
+            <div class="mx-auto max-w-7xl px-6 lg:px-8 relative z-10">
+                <div class="mx-auto max-w-3xl text-center">
+                    <div
+                        class="inline-flex items-center gap-2 rounded-full bg-orange-500/10 px-3 py-1 text-sm font-medium text-orange-400 ring-1 ring-inset ring-orange-500/20 mb-6"
+                    >
+                        <Camera size={16} /> Digital Roof Inspection
+                    </div>
+                    <h1
+                        class="text-4xl font-bold tracking-tight text-white sm:text-6xl font-serif"
+                    >
+                        We See What Others Miss
+                    </h1>
+                    <p class="mt-6 text-lg leading-8 text-slate-300">
+                        Our 4K Drone Technology identifies problems instantly,
+                        safely, and accurately. No guesswork. No ladders. Just
+                        clear evidence.
+                    </p>
+                    <div class="mt-10 flex items-center justify-center gap-x-6">
+                        <a
+                            href="/contact"
+                            class="rounded-none bg-orange-600 px-8 py-3.5 text-sm font-semibold text-white shadow-sm hover:bg-orange-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange-600 uppercase tracking-widest transition-all"
+                            >Book Drone Survey</a
+                        >
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Comparison Section -->
+        <div class="py-24 sm:py-32">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-24">
+                    <!-- The Old Way -->
+                    <div
+                        class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 opacity-70 grayscale hover:grayscale-0 transition-all duration-500"
+                    >
+                        <div class="flex items-center gap-3 mb-6">
+                            <XCircle className="text-red-500" size={32} />
+                            <h3 class="text-2xl font-bold text-gray-900">
+                                The Old Way
+                            </h3>
+                        </div>
+                        <ul class="space-y-4 text-gray-600">
+                            <li class="flex gap-3">
+                                <span class="text-red-500 font-bold">×</span> Climbing
+                                ladders (Dangerous)
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-red-500 font-bold">×</span> Walking
+                                on tiles (Causes damage)
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-red-500 font-bold">×</span> "Just
+                                trust me" quotes
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-red-500 font-bold">×</span> Guesswork
+                                diagnosis
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- The Summit Way -->
+                    <div
+                        class="bg-white p-8 rounded-2xl shadow-xl border-2 border-orange-500/20 transform scale-105"
+                    >
+                        <div class="flex items-center gap-3 mb-6">
+                            <CheckCircle className="text-green-500" size={32} />
+                            <h3 class="text-2xl font-bold text-gray-900">
+                                The Summit Way
+                            </h3>
+                        </div>
+                        <ul class="space-y-4 text-gray-700">
+                            <li class="flex gap-3">
+                                <span class="text-green-500 font-bold shrink-0"
+                                    ><ShieldCheck size={20} /></span
+                                > Zero safety risk or property damage
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-green-500 font-bold shrink-0"
+                                    ><Camera size={20} /></span
+                                > High-Res 4K photos of every tile
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-green-500 font-bold shrink-0"
+                                    ><FileCheck size={20} /></span
+                                > Full digital report emailed to you
+                            </li>
+                            <li class="flex gap-3">
+                                <span class="text-green-500 font-bold shrink-0"
+                                    ><CheckCircle size={20} /></span
+                                > 100% Transparent pricing
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</Layout>

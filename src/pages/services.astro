@@ -1,0 +1,125 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Home, Layers, Plane, CheckCircle2 } from "lucide-react";
+---
+
+<Layout title="Services | Summit Roofing">
+    <main class="bg-white">
+        <!-- Header -->
+        <div class="bg-gray-900 py-24 sm:py-32">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8">
+                <div class="mx-auto max-w-2xl lg:mx-0">
+                    <h1
+                        class="text-4xl font-header font-bold tracking-tight text-white sm:text-6xl"
+                    >
+                        Structural Protection
+                    </h1>
+                    <p class="mt-6 text-lg leading-8 text-gray-300 font-body">
+                        Combining time-honored roofing techniques with modern
+                        technology to deliver lasting watertight solutions.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- content -->
+        <div class="mx-auto max-w-7xl px-6 lg:px-8 py-24">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-16">
+                <!-- Heritage Slate -->
+                <div class="flex flex-col gap-6">
+                    <div
+                        class="h-16 w-16 bg-gray-50 border border-gray-200 rounded-lg flex items-center justify-center text-accent mb-2 shadow-sm"
+                    >
+                        <Home size={32} />
+                    </div>
+                    <h3 class="text-3xl font-header font-bold text-gray-900">
+                        Heritage Slate & Tiling
+                    </h3>
+                    <p class="text-gray-600 text-lg font-body">
+                        Restoring character properties requires patience and
+                        sourcing the right materials. We specialize in Welsh
+                        Slate and clay tile repairs that respect the history of
+                        your building.
+                    </p>
+                    <ul class="space-y-3 text-gray-600 mt-4 font-body">
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Reclaimed Slate
+                            sourcing for invisible repairs
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Expert Lead bossing
+                            and welding
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Breathable membrane
+                            upgrades
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- EPDM -->
+                <div class="flex flex-col gap-6">
+                    <div
+                        class="h-16 w-16 bg-gray-50 border border-gray-200 rounded-lg flex items-center justify-center text-accent mb-2 shadow-sm"
+                    >
+                        <Layers size={32} />
+                    </div>
+                    <h3 class="text-3xl font-header font-bold text-gray-900">
+                        EPDM Rubber Flat Roofing
+                    </h3>
+                    <p class="text-gray-600 text-lg font-body">
+                        The modern solution for flat roofs. We are certified
+                        installers of Firestone EPDM—a single-ply rubber
+                        membrane that is seamless, flexible, and lasts for 50+
+                        years.
+                    </p>
+                    <ul class="space-y-3 text-gray-600 mt-4 font-body">
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Cold-applied
+                            installation (No naked flames)
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> UV and Ozone
+                            resistant
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> 20-Year Manufacturer
+                            Warranty
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Drone -->
+                <div class="flex flex-col gap-6">
+                    <div
+                        class="h-16 w-16 bg-gray-50 border border-gray-200 rounded-lg flex items-center justify-center text-accent mb-2 shadow-sm"
+                    >
+                        <Plane size={32} />
+                    </div>
+                    <h3 class="text-3xl font-header font-bold text-gray-900">
+                        Drone Roof Surveys
+                    </h3>
+                    <p class="text-gray-600 text-lg font-body">
+                        Safe, fast, and transparent. We use 4K drones to inspect
+                        your roof, chimneys, and gutters without the cost or
+                        risk of scaffolding.
+                    </p>
+                    <ul class="space-y-3 text-gray-600 mt-4 font-body">
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> High-Resolution
+                            Imagery (See what we see)
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Detailed Condition
+                            Reports for Insurance
+                        </li>
+                        <li class="flex gap-2">
+                            <CheckCircle2 className="text-accent" /> Early detection
+                            of cracked tiles
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+</Layout>

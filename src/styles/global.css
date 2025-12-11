@@ -1,23 +1,31 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: 'Outfit', sans-serif;
-  --color-primary: #1f2937;
-  /* Gray 900 */
-  --color-secondary: #4b5563;
-  /* Gray 600 */
-  --color-accent: #b91c1c;
-  /* Red 700 - Terracotta/Brick */
-  --color-slate: #64748b;
-  /* Slate 500 - Roofing Slate */
+  --font-header: "Arvo", serif;
+  --font-body: "Lato", sans-serif;
+
+  --color-accent: #c2410c;
+  /* orange-700 */
+  --color-accent-hover: #9a3412;
+  /* orange-800 */
+
+  --radius-button: 0.5rem;
+  /* rounded-lg */
 }
 
-@layer base {
-  html {
-    scroll-behavior: smooth;
+@layer utilities {
+  .font-header {
+    font-family: var(--font-header);
   }
 
-  body {
-    @apply bg-white text-primary antialiased selection:bg-accent/20 selection:text-accent;
+  .font-body {
+    font-family: var(--font-body);
   }
+}
+
+/* Roofer Base Styles */
+body {
+  background-color: #ffffff;
+  color: #334155;
+  /* slate-700 */
 }
